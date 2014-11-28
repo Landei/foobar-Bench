@@ -1,7 +1,7 @@
 foobar-Bench
 ============
 
-a little, very inaccurate benchmark tool
+a little, very inaccurate benchmark tool (using Java)
 
 ------------
 
