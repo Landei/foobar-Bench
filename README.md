@@ -14,3 +14,5 @@ How to use (Java):
 5. Click on run!
 
 (I try to make this with the cmd under Windows!)
+
+If it doesn't work, you can send an E-Mail to "website@landei.pfweb.eu" or you use Twitter: @Landei00
