@@ -5,9 +5,12 @@ a little, very inaccurate benchmark tool (using Java)
 
 ------------
 
-How to use?
+How to use (Java):
 
-1. Open a cmd window and run "java foobar_bench.java"
+1. Download an open the "JavaEditor"
+2. Create a new console project
+3. Name the project "foobar_bench"
+4. Copy&paste the code in to the project
+5. Click on run!
 
-2. Then type in a number (example: 10000) and press enter.
-
+(I try to make this with the cmd under Windows!)
