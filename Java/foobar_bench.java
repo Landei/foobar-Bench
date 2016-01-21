@@ -24,6 +24,8 @@ public class foobar_bench {
       eingabe = InOut.readInt("Input number range: ");
       
       do {
+        timeStart = System.currentTimeMillis();
+        
         ++zahl;
         ziffer = zahl % 5;
         ziffer2 = zahl % 3;
