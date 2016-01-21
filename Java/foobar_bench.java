@@ -19,8 +19,6 @@ public class foobar_bench {
       timeStart = 0;
       timeEnd = 0;
       
-      timeStart = System.currentTimeMillis();
-      
       eingabe = InOut.readInt("Input number range: ");
       
       do {
